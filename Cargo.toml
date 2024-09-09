@@ -1,0 +1,8 @@
+[package]
+name = "mindforge"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+messageforge = "0.1.0"
+promptforge = "0.1.0"
